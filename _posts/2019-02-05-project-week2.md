@@ -16,5 +16,3 @@ Other ideas:
 * Bio informatics
 * Playing with The Odin kit <http://www.the-odin.com/diy-crispr-kit/>
 * Testing the Minion <https://store.nanoporetech.com/starter-packs>
-
-This is a test

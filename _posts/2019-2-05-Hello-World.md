@@ -5,7 +5,7 @@ title: Start of the Biohack Academy!
 
 # Week 2
 
-## Subtitle
+## Documentation
 
 First post on my Github Jekyll page on the first day of the BioHack Academy. It is amazing! ;)
 

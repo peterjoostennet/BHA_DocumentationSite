@@ -7,7 +7,7 @@ title: Start of the Biohack Academy!
 
 ## Subtitle
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+First post on my Github Jekyll page on the first day of the BioHack Academy. It is amazing! ;)
 
 **bold**
 

@@ -3,7 +3,7 @@ layout: post
 title: Start of the Biohack Academy!
 ---
 
-# Week 2
+# Week 1
 
 ## Documentation
 

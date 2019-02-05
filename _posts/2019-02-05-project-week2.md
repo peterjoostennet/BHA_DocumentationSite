@@ -8,8 +8,10 @@ title: Project update
 We did a brainstorm about the project we wanted to do.
 I want to do genetic engineering with CRISPR/cas9.
 
-Unfortunatly, it is not allowed in the Waag. <https://kiempunt-limburg.nl/nieuws/mogelijk-toch-experimenten-met-crispr-cas-in-nederland>
+Unfortunatly, it is not allowed in the Waag. 
+That is due to European regulations: <https://www.nemokennislink.nl/publicaties/europa-legt-crispr-cas-aan-banden/>
 
 Other ideas:
-* Restriction enzymes
+* Restriction enzymes 
 * Bio informatics
+* Playing with The Odin kit <http://www.the-odin.com/diy-crispr-kit/>

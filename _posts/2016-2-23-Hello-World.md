@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Start of the Biohack Academy!
 ---
 
 # Title

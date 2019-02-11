@@ -2,6 +2,7 @@
 layout: post
 title: Project update
 ---
+First we did a test on Biosafety. After that we had a workshop about cultivating microbes on solid media.
 
 # Project update week 2
 
